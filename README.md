@@ -12,8 +12,8 @@ It saves the user's inputed data, and can be constantly updated.
 
 David Kovalchuk
 ## Installation
-npm i inquirer
-npm i mysql2
+npm i inquirer /
+npm i mysql2 /
 npm i console.table
 
 ## Video
